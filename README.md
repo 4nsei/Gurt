@@ -2,6 +2,7 @@
 Gurt is a Roblox internal executor script that has 3 main functions. Gurts whole purpose is attempting to replicate scripts to the server essentially "bypassing" FilteringEnabled. Keep in mind it is still in beta and im going to release it sooner or later so some things will not work or even be there.
 
 Perm Invite: https://discord.gg/2bprzvMFdR
+loadstring (easier read): loadstring(game:HttpGet("https://raw.githubusercontent.com/4nsei/Gurt/refs/heads/main/main.lua")()
 
 ## Gurts Functions
 - Execute: executes any script within the TextBox
