@@ -8,5 +8,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/4nsei/Gurt/refs/heads
 ## Gurts Functions
 - Execute: executes any script within the TextBox
 - Clear: clears the textbbox
-- Execute with Replicator: executes scripts with the Replicators in the script, attempting to send it to the server
+- Execute with Replicator: executes scripts with different replication methods (still adding more, current ones are pretty shitty)
 - Inject: injects a script that configures replication rules to allow for scripts to be sent to the server directly
