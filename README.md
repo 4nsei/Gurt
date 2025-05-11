@@ -3,7 +3,7 @@ Gurt is a Roblox internal executor script that has 3 main functions. Gurts whole
 
 Perm Invite: https://discord.gg/2bprzvMFdR
 
-loadstring (easier read): loadstring(game:HttpGet("https://raw.githubusercontent.com/4nsei/Gurt/refs/heads/main/main.lua")()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/4nsei/Gurt/refs/heads/main/main.lua")()
 
 ## Gurts Functions
 - Execute: executes any script within the TextBox
