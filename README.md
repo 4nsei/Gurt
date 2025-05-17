@@ -15,3 +15,4 @@ being revamped.
 - Players: opens a list of players, select one to do things to them like kill, kick, etc
 - Inject: injects the FE bypass if its not already, also can tell if the FE bypass is currently not working
 - CMD Line: opens a commandline, do cmds to see the commands in the console
+(not everything will work when the first version if released)
