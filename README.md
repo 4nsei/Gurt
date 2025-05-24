@@ -1,4 +1,6 @@
 # Gurt
+**NOT BEING WORKED ON AT THE MOMENT**
+
 being revamped.
 
 <img width="705" alt="Screenshot 2025-05-17 at 7 43 41 PM" src="https://github.com/user-attachments/assets/72bb907f-5326-44a4-88d6-2ab5ef45127b" />
